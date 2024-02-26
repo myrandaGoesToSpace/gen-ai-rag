@@ -18,7 +18,7 @@ You can find the Langchain documentation used to create this tutorial below. The
 2. [Text Splitters](https://python.langchain.com/docs/modules/data_connection/document_transformers/)
 3. [Vector Stores](https://python.langchain.com/docs/modules/data_connection/vectorstores/)
 4. [Retrievers](https://python.langchain.com/docs/modules/data_connection/retrievers/vectorstore)
-5. 
+
 
 ## Resources
 
@@ -26,4 +26,5 @@ You can find the Langchain documentation used to create this tutorial below. The
 - [Langchain RAG Quickstart](https://python.langchain.com/docs/use_cases/question_answering/quickstart)
 - [RAG Guide from DataStax](https://www.datastax.com/guides/what-is-retrieval-augmented-generation)
 - [Semantic Text Splitting](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/5_Levels_Of_Text_Splitting.ipynb)
+- [Adding Citations](https://python.langchain.com/docs/use_cases/question_answering/citations)
   
